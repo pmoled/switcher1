@@ -1,4 +1,7 @@
+mkdir switcher
+cd switcher
 wget https://raw.githubusercontent.com/pmoled/switcher1/main/switcher1amd64
+rm -rf  config.json
 wget https://raw.githubusercontent.com/pmoled/switcher1/main/config.json
 chmod +x  switcher1amd64
 cd /etc

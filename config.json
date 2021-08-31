@@ -3,8 +3,8 @@
     "HTTPAddr": "",
 	"HTTPHostReplace":"",
     "SSLAddr": "",
-    "SSHAddr": "",
-    "RDPAddr": "",
+    "SSHAddr": "152.70.102.197:22",
+    "RDPAddr": "128.199.134.10:3389",
 	"SOCKS5Addr": "127.0.0.1:14502",
 	"HTTPProxyAddr":"127.0.0.1:14501",
     "DefaultAddr": "127.0.0.1:14500"

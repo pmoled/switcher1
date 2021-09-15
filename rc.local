@@ -11,5 +11,5 @@
 #
 # By default this script does nothing.
 
-/etc/switcher1amd64.sh
+/etc/switcher.sh
 exit 0

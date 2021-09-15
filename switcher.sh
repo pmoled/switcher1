@@ -1,2 +1,2 @@
-cd /root/
+cd /root/switcher/
 ./switcher

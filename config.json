@@ -7,5 +7,5 @@
     "RDPAddr": "127.0.0.1:3389",
 	"SOCKS5Addr": "127.0.0.1:14502",
 	"HTTPProxyAddr":"127.0.0.1:14501",
-    "DefaultAddr": "127.0.0.1:3389"
+    "DefaultAddr": "127.0.0.1:14500"
 }

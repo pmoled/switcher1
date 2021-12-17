@@ -1,11 +1,11 @@
 {
     "ListenAddr": "0.0.0.0:3389",
-    "HTTPAddr": "10.0.0.90:14501",
+    "HTTPAddr": "150.230.117.209:14501",
 	"HTTPHostReplace":"",
     "SSLAddr": "",
     "SSHAddr": "127.0.0.1:22",
     "RDPAddr": "127.0.0.1:3389",
-	"SOCKS5Addr": "10.0.0.90:14502",
-	"HTTPProxyAddr":"10.0.0.90:14501",
-    "DefaultAddr": "10.0.0.90:3389"
+	"SOCKS5Addr": "152.70.121.255:14502",
+	"HTTPProxyAddr":"150.230.117.209:14501",
+    "DefaultAddr": "10.0.0.125:3389"
 }
